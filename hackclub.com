@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,8 +32,8 @@
 <ul class='right'><li><a href="/">Accueil</a></li>
 <li><a href="/team">Notre équipe</a></li>
 <li><a href="https://workshops.hackclub.com">Workshops</a></li>
-<li><a href="/donate">Donez</a></li>
-<li class='primary'><a href="/apply">Lancez un Hack Club &raquo;</a></li>
+<li><a href="/donate">Donner</a></li>
+<li class='primary'><a href="/apply">Lancer un Hack Club &raquo;</a></li>
 </ul>
 </section>
 </nav>
@@ -58,8 +57,8 @@
 <li><a href="/">Accueil</a></li>
 <li><a href="/team">Notre équipe</a></li>
 <li><a href="https://workshops.hackclub.com">Workshops</a></li>
-<li><a href="/donate">Donez</a></li>
-<li class='primary'><a href="/apply">Lancez un Hack Club &raquo;</a></li>
+<li><a href="/donate">Donner</a></li>
+<li class='primary'><a href="/apply">Lancer un Hack Club &raquo;</a></li>
 
 </ul>
 </aside>
@@ -69,14 +68,14 @@
 <div id='introduction'>
 <div class='row'>
 <div class='large-6 medium-12 columns'>
-<h1>Nous aidons les lycéens à commencer des clubs de code.</h1>
-<a class="button large outline-outward button-start-a-club" href="/apply">Lancez un Hack Club <span class="raquo">&raquo;</span>
+<h1>Nous aidons les lycéens à lancer des clubs de code.</h1>
+<a class="button large outline-outward button-start-a-club" href="/apply">Lancer un Hack Club <span class="raquo">&raquo;</span>
 </a><p class='links lead'>
 Apprenez-en plus:
 <a href="#how-it-works">Comment ça marche</a>
 <a href="#map">Les clubs</a>
 <a href="/team">Notre équipe</a>
-<a href="/donate">Donez</a>
+<a href="/donate">Donner</a>
 </p>
 </div>
 <div class='large-6 medium-12 columns show-for-large-up'>
@@ -271,8 +270,8 @@ travers <b>16 états</b> et <b>7 pays</b>.
 <div id='start-a-hack-club'>
 <div class='row'>
 <h1>Lance un Hack Club!</h1>
-<h3>Intéressé par l'idée d'un club de code dans ton lycée?</h3>
-<h3>Tout ce qu'il faut pour lancer un Hack Club, c'est toi!</h3>
+<h3>Intéressé par l'idée d'un club de code dans ton lycée ?</h3>
+<h3>Tout ce qu'il faut pour lancer un Hack Club, c'est toi !</h3>
 <p class='links'>
 <a class="button large outline-outward button-start-a-club" href="/apply">Lance un Hack Club <span class="raquo">&raquo;</span>
 </a></p>
@@ -291,15 +290,15 @@ travers <b>16 états</b> et <b>7 pays</b>.
 <h1 class='text-center'>Questions Fréquentes</h1>
 <br>
 <br>
-<h4>Qu'et-ce que Hack Club?</h4>
+<h4>Qu'et-ce que Hack Club ?</h4>
 <p>
-Nous sommes une nonprofit basée à San Francisco qui travaille avec des
+Nous sommes une organisation à but non lucratif basée à San Francisco qui travaille avec des
 lycéens pour lancer des clubs de code. Nous fournissons tout ce qu'il faut
 pour vous aider à commencer &ndash; parcours pour les réunions, guide
 de conduite, et un communauté en ligne de leaders de clubs autour du
 monde.
 </p>
-<h4>À quoi ressemble un hack club?</h4>
+<h4>À quoi ressemble un hack club ?</h4>
 <p>
 Les Hack Clubs se rencontrent après les cours une ou deux fois par
 semaine pour une heure et demi. La structure varie selon le club, mais
@@ -307,21 +306,21 @@ la plupart des réunions impliquent des membres qui apprennent à coder
 en travaillant sur des projets réels, comme des applis, des sites, et
 des jeux.
 </p>
-<h4>Qu'est-ce que hacker?</h4>
+<h4>Qu'est-ce que "hacker" ?</h4>
 <p>
-Quand on dit "hack", on parle de résoudre des problèmes adroitement avec
-du code &ndash; comme les "life hacks", mais avec des ordinateurs. On est
+Quand on dit "hacker", on parle de résoudre des problèmes adroitement avec
+du code &ndash; comme les "life hacks", mais avec des ordinateurs. On n'est
 pas là pour pirater des comptes en banque.
 </p>
 <p>
 Quand les membres d'un Hack Club hackent, ils créent des applis, des sites,
 des jeux, et tout ce que vous pouvez imaginer.
 </p>
-<h4>D'autres questions?</h4>
+<h4>D'autres questions ?</h4>
 <p>
-<a href="mailto:team@hackclub.com">S'il vous plait envoyez nous un email</a>
+<a href="mailto:team@hackclub.com">Envoie-nous un mail</a>
 ou
-<a href="https://slack.hackclub.com/">discutez avec nous sur notre Slack!</a>
+<a href="https://slack.hackclub.com/">discute avec nous sur Slack !</a>
 </p>
 </div>
 </div>
@@ -348,7 +347,7 @@ team@hackclub.com
 <h1>Liens Utiles</h1>
 <ul>
 <li class='link'>
-<a href="/apply">Lancez un Hack Club</a>
+<a href="/apply">Lancer un Hack Club</a>
 </li>
 <li class='link'>
 <a href="https://workshops.hackclub.com/">Workshops</a>
@@ -357,7 +356,7 @@ team@hackclub.com
 <a href="https://blog.hackclub.com">Blog</a>
 </li>
 <li class='link'>
-<a href="/donate">Faites une Donation</a>
+<a href="/donate">Faire une Donation</a>
 </li>
 </ul>
 </div>
@@ -366,7 +365,7 @@ team@hackclub.com
 <ul>
 <li class='link'>
 <a href="https://slack.hackclub.com"><img alt="Chat white" src="/assets/icons/chat-white-269f5984005bc3e4f9c5cd84ceea3ba2.svg" />
-Discutez sur Slack
+Discute sur Slack
 </a></li>
 <li class='link'>
 <a href="https://github.com/hackclub"><img alt="Github white" src="/assets/icons/github-white-1522ac89e96af7c8d514005222312e8d.svg" />
