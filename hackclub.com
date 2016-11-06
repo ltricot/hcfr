@@ -5,7 +5,7 @@
 <meta charset='utf-8'>
 <meta content='width=device-width, initial-scale=1.0' name='viewport'>
 <meta content='Hack Club' name='title'>
-<meta content='Be a part of the global movement of free student-led coding clubs.' name='description'>
+<meta content='Prenez part dans le mouvement global des clubs de code gratuits menés par des étudiants.' name='description'>
 <meta content='website' name='og:type'>
 <meta content='https://hackclub.com' name='og:url'>
 <meta content='/assets/group_photo_no_gradient-905f9903a419752646d60c2bdd1cd64e.jpg' name='og:image'>
@@ -30,11 +30,11 @@
 </li>
 </ul>
 <section class='top-bar-section'>
-<ul class='right'><li><a href="/">Home</a></li>
-<li><a href="/team">Our Team</a></li>
+<ul class='right'><li><a href="/">Accueil</a></li>
+<li><a href="/team">Notre équipe</a></li>
 <li><a href="https://workshops.hackclub.com">Workshops</a></li>
-<li><a href="/donate">Donate</a></li>
-<li class='primary'><a href="/apply">Start a Hack Club &raquo;</a></li>
+<li><a href="/donate">Donez</a></li>
+<li class='primary'><a href="/apply">Lancez un Hack Club &raquo;</a></li>
 </ul>
 </section>
 </nav>
@@ -55,11 +55,11 @@
 <li>
 <label>Navigation</label>
 </li>
-<li><a href="/">Home</a></li>
-<li><a href="/team">Our Team</a></li>
+<li><a href="/">Accueil</a></li>
+<li><a href="/team">Notre équipe</a></li>
 <li><a href="https://workshops.hackclub.com">Workshops</a></li>
-<li><a href="/donate">Donate</a></li>
-<li class='primary'><a href="/apply">Start a Hack Club &raquo;</a></li>
+<li><a href="/donate">Donez</a></li>
+<li class='primary'><a href="/apply">Lancez un Hack Club &raquo;</a></li>
 
 </ul>
 </aside>
@@ -69,14 +69,14 @@
 <div id='introduction'>
 <div class='row'>
 <div class='large-6 medium-12 columns'>
-<h1>We help high schoolers start awesome after-school coding clubs.</h1>
-<a class="button large outline-outward button-start-a-club" href="/apply">Start a Hack Club <span class="raquo">&raquo;</span>
+<h1>Nous aidons les lycéens à commencer des clubs de code.</h1>
+<a class="button large outline-outward button-start-a-club" href="/apply">Lancez un Hack Club <span class="raquo">&raquo;</span>
 </a><p class='links lead'>
-Learn more:
-<a href="#how-it-works">How It Works</a>
-<a href="#map">See The Clubs</a>
-<a href="/team">Our Team</a>
-<a href="/donate">Donate</a>
+Apprenez-en plus:
+<a href="#how-it-works">Comment ça marche</a>
+<a href="#map">Les clubs</a>
+<a href="/team">Notre équipe</a>
+<a href="/donate">Donez</a>
 </p>
 </div>
 <div class='large-6 medium-12 columns show-for-large-up'>
@@ -88,19 +88,18 @@ Learn more:
 <div class='row'>
 <div class='large-12 medium-12 columns'>
 <p class='lead'>
-In the US alone, <b>3 in 4 high schools don’t offer any coding
-classes.</b> We’re setting out to help students change that. <br /> <br />
-We think <b>coding is a superpower that anyone can learn</b> and our
-goal is to provide every student, regardless of ethnicity, gender, or
-socioeconomic status, the opportunity to learn to code
+En France, <b>seulement très peu d'écoles proposent des cours d'informatique.</b>
+Nous souhaitons aider les lycéens à changer ça. <br /> <br />
+Nous pensons que <b>coder est comme un super pouvoir que tout le monde peut apprendre</b>
+et notre objectif est de donner à chaque élève, indépendamment de son ethnie, genre, ou statut socioéconomique, l'opportunité d'apprendre à coder.
 </p>
 </div>
 </div>
 </div>
 <div id='how-it-works'>
 <div class='row'>
-<h1>How It Works</h1>
-<p class='lead'>A student-led Hack Club is made of four simple ingredients:</p>
+<h1>Comment ça marche</h1>
+<p class='lead'>Un Hack Club se compose de simplement quatre ingrédients :</p>
 </div>
 <div class='row pluses show-for-large-up'>
 <div class='large-3 columns'>
@@ -128,8 +127,7 @@ socioeconomic status, the opportunity to learn to code
 </div>
 <h3 class='card-heading card-heading-taller'>Leader</h3>
 <p class='card-body'>
-It takes only one passionate student to start a Hack Club &ndash; that
-could be you!
+Il ne faut qu'un élève passionné pour lancer un Hack Club &ndash; pourquoi pas toi ?
 </p>
 </div>
 </div>
@@ -141,8 +139,7 @@ could be you!
 </div>
 <h3 class='card-heading card-heading-taller'>Hackers</h3>
 <p class='card-body'>
-Anyone who is interested in learning how to build cool apps &
-games are welcome to join!
+N'importe qui souhaitant apprendre à créer des applis géniales et des jeux est le bienvenu !
 </p>
 </div>
 </div>
@@ -152,10 +149,9 @@ games are welcome to join!
 <img alt="Venue bw" class="card-image-fx-normal" src="/assets/slices/venue-bw-ccbd7e7cfc8b1fb3489e72f36468fd84.svg" />
 <img alt="Venue red" class="card-image-fx-hover" src="/assets/slices/venue-red-f0538ce0e5deaa63f97d77a652ac16f4.svg" />
 </div>
-<h3 class='card-heading card-heading-taller'>Venue</h3>
+<h3 class='card-heading card-heading-taller'>Un lieu</h3>
 <p class='card-body'>
-We work with your school and our partners to get it the support it
-needs
+Nous collaborons avec ton école et nos partenaires pour avoir le support nécessaire.
 </p>
 </div>
 </div>
@@ -165,10 +161,9 @@ needs
 <img alt="Resources bw" class="card-image-fx-normal" src="/assets/slices/resources-bw-9109b77859941a03d0df06ae84872693.svg" />
 <img alt="Resources red" class="card-image-fx-hover" src="/assets/slices/resources-red-eb74ce288e7ee64d6d47451f9c9e3dbe.svg" />
 </div>
-<h3 class='card-heading card-heading-taller'>Our Resources</h3>
+<h3 class='card-heading card-heading-taller'>Nos Ressources</h3>
 <p class='card-body'>
-We provide the resources to run your club, including workshops,
-partnerships, and community.
+Nous fournissons les ressources pour faire fonctionner ton club, ce qui inclue des activités, des partenariats, et une communauté.
 </p>
 </div>
 </div>
@@ -176,10 +171,9 @@ partnerships, and community.
 </div>
 <div id='meet-the-hack-clubs'>
 <div class='row heading'>
-<h1>Meet the Hack Clubs</h1>
+<h1>Rencontre les Hack Clubs</h1>
 <p class='lead'>
-When you start a Hack Club, you join a diverse community of coders from
-around the world.
+En lançant un Hack Club, tu rejoins une communauté de codeurs venant du monde entier !
 </p>
 </div>
 <div class='row row-larger margin-bottom'>
@@ -187,8 +181,7 @@ around the world.
 <img alt="Lecture" src="/assets/photos/lecture-12f735b6e9fe7910bad92648eef5a313.jpg" />
 <div class='club-overlay'>
 <p>
-We host events like <b>Demo Night</b> for
-students to show off their projects.
+Nous organisons des évènements comme les <b>Nuits Démo</b> pour que les étudiants présentent leurs projets.
 </p>
 <!-- / %h5 George Washington High School -->
 <!-- / Philadelphia, PA -->
@@ -199,8 +192,8 @@ students to show off their projects.
 <img alt="Vr" src="/assets/photos/vr-ef0101319898d281545c2288f18239d6.jpg" />
 <div class='club-overlay'>
 <p>
-Students work with the latest and greatest innovations, such as
-<b>virtual reality.</b>
+Les étudiants travaillent avec les innovations les plus importantes et les plus récentes comme la
+<b>réalité virtuelle.</b>
 </p>
 </div>
 </div>
@@ -208,7 +201,7 @@ Students work with the latest and greatest innovations, such as
 <img alt="Group" src="/assets/photos/group-8ba23ac23684a09f97daf86524428fec.jpg" />
 <div class='club-overlay'>
 <p>
-Hack Club's <b>workshops</b> provides hours of hands-on instruction.
+Les <b>workshops</b> de Hack Club fournissent des heures d'apprentissage par projets.
 </p>
 <!-- / %h5 George Washington High School -->
 <!-- / Philadelphia, PA -->
@@ -219,7 +212,7 @@ Hack Club's <b>workshops</b> provides hours of hands-on instruction.
 <img alt="Piano" src="/assets/photos/piano-451c27540e11ddbbac31882c62b80200.jpg" />
 <div class='club-overlay'>
 <p>
-Tout peut être programmé, des applis ou mêmes des <b>instruments musicaux.</b>
+Anything can be programmed, from apps to <b>musical instruments.</b>
 </p>
 <!-- / %h5 George Washington High School -->
 <!-- / Philadelphia, PA -->
@@ -230,8 +223,8 @@ Tout peut être programmé, des applis ou mêmes des <b>instruments musicaux.</b
 <img alt="Talk" src="/assets/photos/talk-474dbd07aed86bc17a5f1d7527c09145.jpg" />
 <div class='club-overlay'>
 <p>
-On amène des <b>professionnels</b> pour donner des présentations et diriger
-des discussions.
+We bring in <b>industry professionals</b> to give talks and lead
+discussions.
 </p>
 <!-- / %h5 George Washington High School -->
 <!-- / Philadelphia, PA -->
@@ -242,8 +235,8 @@ des discussions.
 <img alt="Debugging" src="/assets/photos/debugging-6dcdd693d394b5e7ffe27275a29fe699.jpg" />
 <div class='club-overlay'>
 <p>
-Nous pensons que coder peut être une
-<b>activité collaborative.</b>
+We believe that coding can be a very
+<b>collaborative activity.</b>
 </p>
 <!-- / %h5 George Washington High School -->
 <!-- / Philadelphia, PA -->
@@ -255,8 +248,9 @@ Nous pensons que coder peut être une
 <div id='map'>
 <div class='row'>
 <p class='lead'>
-Hack Club a un impact sur le monde entier, dans <br><b>132 écoles</b> à
-travers <b>16 états</b> et <b>7 pays</b>.
+The impact of Hack Club reaches far and wide across the world, in <br>
+<b>132 schools</b> across <b>16 states</b> and <b>7
+countries</b>.
 </p>
 </div>
 <div class='tabs-content'>
@@ -266,10 +260,10 @@ travers <b>16 états</b> et <b>7 pays</b>.
 <div class='row-larger margin-bottom'>
 <ul class='tabs' data-tab=''>
 <li class='tab-title active'>
-<a href="#map-usa" id="focus-map-usa">États Unis</a>
+<a href="#map-usa" id="focus-map-usa">United States</a>
 </li>
 <li class='tab-title'>
-<a href="#map-international" id="focus-map-international">Mondial</a>
+<a href="#map-international" id="focus-map-international">Worldwide</a>
 </li>
 </ul>
 </div>
@@ -277,11 +271,11 @@ travers <b>16 états</b> et <b>7 pays</b>.
 </div>
 <div id='start-a-hack-club'>
 <div class='row'>
-<h1>Lance un Hack Club!</h1>
-<h3>Intéressé par l'idée d'un club de code dans ton lycée?</h3>
-<h3>Tout ce qu'il faut pour lancer un Hack Club, c'est toi!</h3>
+<h1>Start a Hack Club!</h1>
+<h3>Interested in bringing a coding club to your school?</h3>
+<h3>All it takes to start a Hack Club is you!</h3>
 <p class='links'>
-<a class="button large outline-outward button-start-a-club" href="/apply">Lance un Hack Club <span class="raquo">&raquo;</span>
+<a class="button large outline-outward button-start-a-club" href="/apply">Start a Hack Club <span class="raquo">&raquo;</span>
 </a></p>
 </div>
 <div class='row text-center row-of-people show-for-medium-up'>
@@ -295,40 +289,39 @@ travers <b>16 états</b> et <b>7 pays</b>.
 <div id='faq'>
 <div class='row'>
 <div class='small-12 medium-12 large-7 medium-centered columns'>
-<h1 class='text-center'>Questions Fréquentes</h1>
+<h1 class='text-center'>Frequently Asked Questions</h1>
 <br>
 <br>
-<h4>Qu'et-ce que Hack Club?</h4>
+<h4>What is Hack Club?</h4>
 <p>
-Nous sommes une nonprofit basée à San Francisco qui travaille avec des
-lycéens pour lancer des clubs de code. Nous fournissons tout ce qu'il faut
-pour vous aider à commencer &ndash; parcours pour les réunions, guide
-de conduite, et un communauté en ligne de leaders de clubs autour du
-monde.
+We're a San Francisco based nonprofit that works with high schoolers to
+start after-school coding clubs. We provide everything needed to start a
+successful chapter at your school &ndash; curriculum for club meetings,
+facilitation guidelines, and an online community of club leaders from
+around the globe.
 </p>
-<h4>À quoi ressemble un hack club?</h4>
+<h4>What does a Hack Club look like?</h4>
 <p>
-Les Hack Clubs se rencontrent après les cours une ou deux fois par
-semaine pour une heure et demi. La structure varie selon le club, mais
-la plupart des réunions impliquent des membres qui apprennent à coder
-en travaillant sur des projets réels, comme des applis, des sites, et
-des jeux.
+Hack Clubs meet after-school once or twice a week for an hour and a
+half. The structure varies club to club, but most meetings involve
+members learning to code by working on real projects, like apps,
+websites, and games.
 </p>
-<h4>Qu'est-ce que hacker?</h4>
+<h4>What is hacking?</h4>
 <p>
-Quand on dit "hack", on parle de résoudre des problèmes adroitement avec
-du code &ndash; comme les "life hacks", mais avec des ordinateurs. On est
-pas là pour pirater des comptes en banque.
+When we say "hack", we're referring to solving problems cleverly with
+code &ndash; just like "life hacking", except with computers. We're not
+here to break into anyone's bank accounts.
 </p>
 <p>
-Quand les membres d'un Hack Club hackent, ils créent des applis, des sites,
-des jeux, et tout ce que vous pouvez imaginer.
+When members of Hack Clubs hack, they're building apps, websites, games,
+and anything else you can imagine.
 </p>
-<h4>D'autres questions?</h4>
+<h4>Have any other questions?</h4>
 <p>
-<a href="mailto:team@hackclub.com">S'il vous plait envoyez nous un email</a>
-ou
-<a href="https://slack.hackclub.com/">discutez avec nous sur notre Slack!</a>
+<a href="mailto:team@hackclub.com">Please send us an email</a>
+or
+<a href="https://slack.hackclub.com/">chat with us on our Slack!</a>
 </p>
 </div>
 </div>
@@ -352,10 +345,10 @@ team@hackclub.com
 </ul>
 </div>
 <div class='small-12 medium-4 columns nav'>
-<h1>Liens Utiles</h1>
+<h1>Useful Links</h1>
 <ul>
 <li class='link'>
-<a href="/apply">Lancez un Hack Club</a>
+<a href="/apply">Start a Hack Club</a>
 </li>
 <li class='link'>
 <a href="https://workshops.hackclub.com/">Workshops</a>
@@ -364,16 +357,16 @@ team@hackclub.com
 <a href="https://blog.hackclub.com">Blog</a>
 </li>
 <li class='link'>
-<a href="/donate">Faites une Donation</a>
+<a href="/donate">Donate</a>
 </li>
 </ul>
 </div>
 <div class='small-12 medium-4 columns nav'>
-<h1>Rejoignez la Communauté</h1>
+<h1>Join the Community</h1>
 <ul>
 <li class='link'>
 <a href="https://slack.hackclub.com"><img alt="Chat white" src="/assets/icons/chat-white-269f5984005bc3e4f9c5cd84ceea3ba2.svg" />
-Discutez sur Slack
+Chat on Slack
 </a></li>
 <li class='link'>
 <a href="https://github.com/hackclub"><img alt="Github white" src="/assets/icons/github-white-1522ac89e96af7c8d514005222312e8d.svg" />
@@ -392,8 +385,8 @@ Twitter
 </div>
 <div class='small-12 columns text-center'>
 <p class='copyright'>
-© 2016 Hack Club. S'il vous plait lisez notre
-<a href="https://conduct.hackclub.com">code de conduite</a>.
+© 2016 Hack Club. Please read our
+<a href="https://conduct.hackclub.com">code of conduct</a>.
 </p>
 </div>
 </div>
