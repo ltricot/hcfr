@@ -87,7 +87,7 @@ Apprenez-en plus:
 <div class='row'>
 <div class='large-12 medium-12 columns'>
 <p class='lead'>
-En France, <b>seulement très peu d'écoles proposent des cours d'informatique.</b>
+En France, <b>très peu d'écoles proposent des cours d'informatique.</b>
 Nous souhaitons aider les lycéens à changer ça. <br /> <br />
 Nous pensons que <b>coder est comme un super pouvoir que tout le monde peut apprendre</b>
 et notre objectif est de donner à chaque élève, indépendamment de son ethnie, genre, ou statut socioéconomique, l'opportunité d'apprendre à coder.
