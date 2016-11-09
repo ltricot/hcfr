@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='Hack Club' name='title'>
+<meta content='A monthly donation of $3 can support a student in Hack Club. Your contribution matters to our clubs.' name='description'>
+<meta content='website' name='og:type'>
+<meta content='https://hackclub.com' name='og:url'>
+<meta content='/assets/group_photo_no_gradient-905f9903a419752646d60c2bdd1cd64e.jpg' name='og:image'>
+
+<title>Hack Club | Donate</title>
+<link href="/assets/favicon-6726b5989c8ad4beb15f4fac904fcdef.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link data-turbolinks-track="true" href="/assets/application-017b8bc9c7ddc3dc2dd9428e426a88ff.css" media="all" rel="stylesheet" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="3kGhlG+Ll0/JMemxZq4ihQOMjtdEvn7DYUe6AQDJfzw=" name="csrf-token" />
+</head>
+<body>
+<div class='off-canvas-wrap' data-offcanvas=''>
+<div class='inner-wrap'>
+<nav class='top-bar hide-for-small' data-topbar=''>
+<ul class='title-area'>
+<li class='name'>
+<h1 class='title'>
+<a href='/'>
+<img alt="Hack Club" class="hackclub-logo" src="/assets/text_logo-3db40d4414e2b656a52dd7d0a20cf45b.svg" />
+</a>
+</h1>
+</li>
+</ul>
+<section class='top-bar-section'>
+<ul class='right'><li><a href="/">Home</a></li>
+<li><a href="/team">Our Team</a></li>
+<li><a href="https://workshops.hackclub.com">Workshops</a></li>
+<li><a href="/donate">Donate</a></li>
+<li class='primary'><a href="/apply">Start a Hack Club &raquo;</a></li>
+</ul>
+</section>
+</nav>
+<nav class='tab-bar show-for-small'>
+<section class='left-small'>
+<a class='left-off-canvas-toggle menu-icon' href='#'>
+<span></span>
+</a>
+</section>
+<section class='middle tab-bar-section'>
+<h1 class='title'>
+<img alt="Hack Club" class="hackclub-logo" src="/assets/text_logo-3db40d4414e2b656a52dd7d0a20cf45b.svg" />
+</h1>
+</section>
+</nav>
+<aside class='left-off-canvas-menu'>
+<ul class='off-canvas-list'>
+<li>
+<label>Navigation</label>
+</li>
+<li><a href="/">Home</a></li>
+<li><a href="/team">Our Team</a></li>
+<li><a href="https://workshops.hackclub.com">Workshops</a></li>
+<li><a href="/donate">Donate</a></li>
+<li class='primary'><a href="/apply">Start a Hack Club &raquo;</a></li>
+
+</ul>
+</aside>
+<div class='row'>
+</div>
+
+<div aria-hidden='true' aria-labelledby='confirmationTitle' class='reveal-modal' data-reveal='' id='confirmation-modal' role='dialog'>
+<h2 id='confirmationTitle'>You're Awesome</h2>
+<p class='lead'>
+Thank you for your contribution. We've sent a confirmation receipt to
+your email.
+</p>
+<a aria-label='Close' class='close-reveal-modal'>×</a>
+</div>
+<div class='donation-header'>
+<div class='row'>
+<div class='small-12 columns'>
+<h1 class='heading'>
+Hack Club brings free coding clubs to high schools worldwide.
+</h1>
+<p class='subheading'>
+It costs us $3 each month to support a student in Hack Club. Join us,
+your contribution matters.
+</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='small-12 columns'>
+<form accept-charset="UTF-8" action="/donate" class="donation-form" id="donation-form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3kGhlG+Ll0/JMemxZq4ihQOMjtdEvn7DYUe6AQDJfzw=" /></div>
+<section class='donation-impact'>
+<h3>
+Your <span id="contribution-amount">$50</span> contribution allows us to support
+<span id="donation-impact-count">16 students</span>
+in Hack Club
+<span id="donation-impact-duration">every month</span>.
+</h3>
+</section>
+<section>
+<div class='button-group toggle' data-toggle='buttons-radio'>
+<div class='row'>
+<div class='medium-9 columns'>
+<div class='row'>
+<div class='small-4 medium-3 large-2 columns'>
+<input data-toggle='button' id='a15' name='amount' type='radio' value='1500'>
+<label class='button' for='a15'>$15</label>
+</input>
+</div>
+<div class='small-4 medium-3 large-2 columns'>
+<input checked='' data-toggle='button' id='a50' name='amount' type='radio' value='5000'>
+<label class='button' for='a50'>$50</label>
+</input>
+</div>
+<div class='small-4 medium-3 large-2 columns'>
+<input data-toggle='button' id='a150' name='amount' type='radio' value='15000'>
+<label class='button' for='a150'>$150</label>
+</input>
+</div>
+<div class='small-4 medium-3 large-2 columns'>
+<input data-toggle='button' id='a300' name='amount' type='radio' value='30000'>
+<label class='button' for='a300'>$300</label>
+</input>
+</div>
+<div class='small-4 medium-3 columns'>
+<input data-toggle='button' id='a-custom' name='amount' type='radio' value='custom'>
+<label class='button' for='a-custom'>Custom</label>
+</input>
+</div>
+<div class='small-4 medium-3 columns hide' id='custom-amount'>
+<div class='row collapse'>
+<label>Amount</label>
+<div class='small-3 columns'>
+<span class='prefix'>$</span>
+</div>
+<div class='small-9 columns'>
+<input name='custom_amount' type='number' value='25'>
+</div>
+</div>
+</div>
+<div class='small-offset-4 hide-for-medium-up columns'></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class='row'>
+<div class='small-12 medium-3 large-2 columns'>
+<input checked='' id='r-true' name='recurring' type='radio' value='true'>
+<label for='r-true'>Monthly</label>
+</input>
+</div>
+<div class='small-12 medium-3 large-2 columns'>
+<input id='r-false' name='recurring' type='radio' value='false'>
+<label for='r-false'>One Time</label>
+</input>
+</div>
+<div class='medium-offset-6 large-offset-8 columns'></div>
+</div>
+</section>
+<section>
+<button id='contribute'>Contribute</button>
+</section>
+<section>
+<p>
+Your contribution is tax deductible.
+</p>
+</section>
+</form>
+
+</div>
+</div>
+
+<a class='exit-off-canvas'></a>
+</div>
+</div>
+<script src="/assets/vendor/modernizr-434ed410f04467ac857019cb41d2bfd0.js"></script>
+<script src="//maps.google.com/maps/api/js?v=3.24&amp;key=AIzaSyCkHnoa1N2T5yfDQnD6SZ8VdQMx7uVPxn0"></script>
+<script src="//cdn.rawgit.com/mahnunchik/markerclustererplus/master/dist/markerclusterer.min.js"></script>
+<script src="//cdn.rawgit.com/printercu/google-maps-utility-library-v3-read-only/master/infobox/src/infobox_packed.js"></script>
+<script data-turbolinks-track="true" src="/assets/application-f139c8f591d3a79607c85314ff7bd583.js"></script>
+<script>
+//<![CDATA[
+
+            (function() {
+              var function_name = 'donations#new';
+              var __should_call_donations_new = true;
+              if (typeof(this[function_name]) == 'function' && __should_call_donations_new) {
+                $(function() {
+                  __should_call_donations_new = false;
+                  return window[function_name]({"stripe_publishable_key":"pk_live_z9sqsmu2zPUSaCYgLmfoHSNm","logo_url":"https://hackclub.com/assets/logo-9fb65fb2cff158ddeda7eb0b87a27f66.png"});
+                });
+              }
+            }).call(window);
+//]]>
+</script>
+</body>
+</html>
